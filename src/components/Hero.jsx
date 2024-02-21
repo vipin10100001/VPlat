@@ -13,7 +13,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-4xl md:text-4xl lg:text-6xl font-bold text-white mb-6 mt-24 text-center"
         >
-          Welcome to VPlat - A Outside Matrix App
+          Welcome to VPlat - A Modern Day Skill Learner App
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: -20 }}

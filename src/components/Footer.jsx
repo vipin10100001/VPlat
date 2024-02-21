@@ -16,7 +16,7 @@ const Footer = () => {
           <div>
             <h2 className="text-2xl font-bold mb-4 text-green-500">Vplat App</h2>
             <p className="text-gray-400">
-              A special Platform that teaches you how to live outside the Matrix
+              A special Platform that teaches you how to learn Modern Day Skills 
             </p>
             <div className="flex mt-4">
               <a
